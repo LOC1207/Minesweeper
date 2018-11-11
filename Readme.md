@@ -13,3 +13,7 @@ Player can choose level and play .
 
 One more level is there which is under construction that is custom. In which user can select how many row columns and flag he wants to have in a game.
 Game Rules are very simple.
+
+IMPORTANT:
+attach HighlandGothic.ttf
+before running the file
